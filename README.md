@@ -1,3 +1,3 @@
 #Website
  Homepage Demo link :
-https://abdulruffelz.github.io/Palliative-Care-Unit/
+https://abdulruffelz.github.io/PalliativeCare/
